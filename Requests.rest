@@ -1,0 +1,10 @@
+@host=http://localhost:5122
+
+POST {{host}}/api/user/create
+content-type: application/json
+
+{
+  "FirstName": "Marlon",
+  "LastName": "Brando",
+  "Age": 40
+}
