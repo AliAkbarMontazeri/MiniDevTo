@@ -1,2 +1,2 @@
 # MiniDevTo
-Belajar fast end points dengan fast endpoints + mongodb
+Belajar backend .NET dengan fast endpoints + mongodb
